@@ -1,0 +1,16 @@
+GET http://localhost:3003/endereco/05424150
+
+###
+post https://cep-labenu.herokuapp.com/user/05424150
+
+###
+post  https://cep-servicos-aula.herokuapp.com/user/05424150
+
+### 
+GET https://cep-servicos-aula.herokuapp.com/list
+
+###
+post http://localhost:3003/user/05424150
+
+###
+GET http://localhost:3003/list
